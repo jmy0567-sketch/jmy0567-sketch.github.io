@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jmy0567-sketch.github.io/dreamadcom/sitemap.xml
