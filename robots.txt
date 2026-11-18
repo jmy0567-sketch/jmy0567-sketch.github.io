@@ -5,3 +5,4 @@ Sitemap: https://jmy0567-sketch.github.io/dreamadcom/sitemap.xml
 Sitemap: https://jmy0567-sketch.github.io/arthall-homepage/sitemap.xml
 Sitemap: https://jmy0567-sketch.github.io/arthall-homepage/mgallery/sitemap.xml
 Sitemap: https://jmy0567-sketch.github.io/dept-ad/sitemap.xml
+Sitemap: https://jmy0567-sketch.github.io/truck-ad/sitemap.xml
